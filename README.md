@@ -1,6 +1,6 @@
 # Arduino-Engineering-Kit
-J'ai commencer à travailler sur le KIT ingénieur de Arduino
-Mon objectif est de finir avec les projets du KIT
+J'ai commencer à travailler sur le KIT ingénieur de Arduino. Mon objectif est de finir avec les projets du KIT.
+Le kit d'ingénierie Arduino s'adresse aux étudiants en ingénierie qui souhaitent en savoir plus sur Arduino, MATLAB, Simulink et Stateflow. Il a été développé en collaboration entre Mathworks et Arduino. Le kit contient tous les composants nécessaires pour construire trois projets complets, ainsi que du matériel pédagogique avec des explications sur la physique et les mathématiques de la mécatronique. Vous serez initié à la programmation dans quatre langages de programmation différents et découvrirez tout ce qui précède tout en réalisant ces trois projets d'ingénierie difficiles.
 ![Kit](Assets/kit.jpg)
 
 # Outils utilisés
