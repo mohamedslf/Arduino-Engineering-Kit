@@ -7,7 +7,7 @@ Le kit d'ingénierie Arduino s'adresse aux étudiants en ingénierie qui souhait
 <code> <img align="left" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"/> </code>
 <code> <img align="left" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"/> </code>
 -----------------
-### Arduino et Matlab sont les outils que j'ai utilisé pour réaliser les différents projets su kit
+### Arduino et Matlab sont les outils que j'ai utilisé pour réaliser les différents projets du kit
 
 # Les projets du KIT
 ## Drawing Robot
