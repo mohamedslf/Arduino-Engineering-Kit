@@ -12,31 +12,54 @@ Le kit d'ingénierie Arduino s'adresse aux étudiants en ingénierie qui souhait
 # Le contenu du KIT
 * __Carte arduino MKR1000__
 ![Drawing](Assets/mkr1000.png)
-
-* __ARDUINO MKR MOTOR CARRIER__
+* __Arduino MKR shield moteur CARRIER__
+![Drawing](Assets/shield.png)
 * __ARDUINO MKR IMU SHIELD__
-* __MICRO USB CABLE__
-* __DC MOTOR__
-* __DC MOTORS WITH ENCODERS__
+![Drawing](Assets/shield_imu.png)
+* __câble USB__
+![Drawing](Assets/câble.png)
+* __Moteur CC__
+![Drawing](Assets/moteurcc.png)
+* __Moteur avec Encodeur__
+![Drawing](Assets/moteurpp.png)
 * __STANDARD MICRO SERVO__
+![Drawing](Assets/servo_moteur.png)
 * __HALL SENSOR MODULE__
+![Drawing](Assets/capteureffet.png)
 * __ULTRASONIC SENSOR MODULE__
+![Drawing](Assets/ultrason.png)
 * __WEBCAM__
+![Drawing](Assets/webcam.png)
 * __LIPO BATTERY__
+![Drawing](Assets/lipo.png)
 * __MODULE CABLES__
+![Drawing](Assets/modules.png)
 * __ASSEMBLY PIECES__
+![Drawing](Assets/pieces.png)
 * __CASTER WHEEL__
+![Drawing](Assets/roulette.png)
 * __WHEELS__
+![Drawing](Assets/roues.png)
 * __TIMING BELT__
+![Drawing](Assets/courroie.png)
 * __TIMING PULLEYS__
+![Drawing](Assets/poulies.png)
 * __DC MOTOR MOUNTING BRACKETS__
+![Drawing](Assets/supp.png)
 * __METAL SHAFT__
+![Drawing](Assets/arbre.png)
 * __METAL D SHAFTS__
+![Drawing](Assets/arbred.png)
 * __DISTANCE SPACERS__
+![Drawing](Assets/entretoises.png)
 * __PROPELLER ADAPTER SCREW__
+![Drawing](Assets/helice.png)
 * __NUTS AND BOLTS__
+![Drawing](Assets/boulons.png)
 * __ADDITIONAL COMPONENTS__
+![Drawing](Assets/supp.png)
 * __COMPONENTS NEEDED BUT NOT INCLUDED__
+![Drawing](Assets/matos.png)
 
 # Les projets du KIT
 ## Drawing Robot
