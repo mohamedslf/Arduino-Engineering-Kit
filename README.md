@@ -22,43 +22,43 @@ Le kit d'ingénierie Arduino s'adresse aux étudiants en ingénierie qui souhait
 ![Drawing](Assets/moteurcc.png)
 * __Moteur avec Encodeur__
 ![Drawing](Assets/moteurpp.png)
-* __STANDARD MICRO SERVO__
+* __Servomoteur__
 ![Drawing](Assets/servo_moteur.png)
-* __HALL SENSOR MODULE__
+* __Module capteur à effet__
 ![Drawing](Assets/capteureffet.png)
-* __ULTRASONIC SENSOR MODULE__
+* __Capteur Ultrason__
 ![Drawing](Assets/ultrason.png)
-* __WEBCAM__
+* __Webcam__
 ![Drawing](Assets/webcam.png)
-* __LIPO BATTERY__
+* __Battérie LiPo__
 ![Drawing](Assets/lipo.png)
-* __MODULE CABLES__
+* __Câbles__
 ![Drawing](Assets/modules.png)
-* __ASSEMBLY PIECES__
+* __Pièces d'assemblage__
 ![Drawing](Assets/pieces.png)
-* __CASTER WHEEL__
+* __roulette__
 ![Drawing](Assets/roulette.png)
-* __WHEELS__
+* __Roues__
 ![Drawing](Assets/roues.png)
-* __TIMING BELT__
+* __Courroie__
 ![Drawing](Assets/courroie.png)
-* __TIMING PULLEYS__
+* __Poulies de distribution__
 ![Drawing](Assets/poulies.png)
-* __DC MOTOR MOUNTING BRACKETS__
-![Drawing](Assets/supp.png)
-* __METAL SHAFT__
+* __Supports de montage de moteur CC__
+![Drawing](Assets/supports.png)
+* __Arbre en métal__
 ![Drawing](Assets/arbre.png)
-* __METAL D SHAFTS__
+* __Arbre D en métal__
 ![Drawing](Assets/arbred.png)
-* __DISTANCE SPACERS__
+* __Entretoises de distances__
 ![Drawing](Assets/entretoises.png)
-* __PROPELLER ADAPTER SCREW__
+* __Vis d'adapteur d'Hélice__
 ![Drawing](Assets/helice.png)
-* __NUTS AND BOLTS__
+* __Écrous et Boulons__
 ![Drawing](Assets/boulons.png)
-* __ADDITIONAL COMPONENTS__
+* __Composants supplémentaires__
 ![Drawing](Assets/supp.png)
-* __COMPONENTS NEEDED BUT NOT INCLUDED__
+* __Composant nécessaire pour le montage mais qui sont pas inclus dans le KIT__
 ![Drawing](Assets/matos.png)
 
 # Les projets du KIT
