@@ -1,2 +1,6 @@
 # SELF BALANCING MOTORCYCLE
+Doté d'une dynamique de pendule inversée utilisant une roue de réaction et un gyroscope de mouvement, la moto à équilibrage automatique peut se déplacer et s'équilibrer par elle-même. La moto utilise Simulink pour surveiller et contrôler les mouvements, la détection inertielle et le filtrage pour équilibrer la moto.
 ![Drawing](../Assets/self_balancing_moto.png)
+
+# But du projet
+Le projet consiste à réaliser un robot à deux roues qui peut s'équilibrer et se déplacer à l'aide d'un disque rotatif, que nous appellerons désormais roue d'inertie, pour compenser si la moto perd l'équilibre. La moto est contrôlée par un Arduino MKR1000, l'Arduino MKR Motor Carrier, un moteur à courant continu pour déplacer la roue arrière, un encodeur, un moteur à courant continu pour contrôler la roue d'inertie, un IMU 6 axes, un servomoteur standard pour diriger la poignée de la moto , un capteur de distance et un tachymètre. Dans ce projet, vous apprendrez à simuler le comportement global du véhicule et à créer des modèles pour programmer les composants matériels et améliorer la qualité des algorithmes de contrôle. Vous découvrirez également comment programmer la moto avec Simulink®, contrôler son algorithme d'équilibre, la faire se déplacer en ligne droite et détecter les obstacles.
